@@ -1,5 +1,17 @@
-permalink: "/blog/:categories/:year/:month/:day/:title.html"
-paginate: 20
-paginate_path: "/blog/page:num/"
-theme: jekyll-theme-slate
-plugins: [jekyll-paginate]
+defaults:
+  - values:
+      layout: default
+
+  - scope:
+      path: ''
+      type: posts
+      values:
+      layout: blost
+
+collections:
+  projects:
+    output: true
+  research:
+    output: true
+
+permalink: pretty
