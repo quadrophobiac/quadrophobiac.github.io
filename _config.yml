@@ -1,17 +1,9 @@
-defaults:
-  - values:
-      layout: default
-
-  - scope:
-      path: ''
-      type: posts
-      values:
-      layout: blost
-
 collections:
   projects:
     output: true
   research:
+    output: true
+  posts:
     output: true
 
 permalink: pretty

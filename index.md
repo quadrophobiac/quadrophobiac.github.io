@@ -1,7 +1,4 @@
 ---
-title: ODI Labs
+title: stephenfortune
 ---
-
-ODI Labs is a programme within the [Open Data Institute](http://theodi.org) that equips people with the technology to create, connect and use the web of data.
-
-{% include griddlify.html panels = '/vision /collaborate /guides' %}
+Hello World, in process of migrating towards github pages and educating myself about all the web, markup language and other knowledges that I glossed in using Wordpress CMS for all the things I put on the web. Bear with me!
