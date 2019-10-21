@@ -1,5 +1,0 @@
-permalink: "/blog/:categories/:year/:month/:day/:title.html"
-paginate: 20
-paginate_path: "/blog/page:num/"
-theme: jekyll-theme-slate
-plugins: [jekyll-paginate]
