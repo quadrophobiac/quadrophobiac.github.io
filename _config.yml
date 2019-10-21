@@ -1,3 +1,7 @@
+header_pages:
+  - index.md
+  - about.md
+  - blog
 collections:
   projects:
     output: true
@@ -5,5 +9,7 @@ collections:
     output: true
   posts:
     output: true
-
+theme: jekyll-theme-console
 permalink: pretty
+
+footer: 'this leet theme s called <a href=https://github.com/b2a3e8/jekyll-theme-console>jekyll-theme-console</a> comes from  <a href="https://github.com/b2a3e8">b2a3e8</a>'
